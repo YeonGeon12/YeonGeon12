@@ -13,7 +13,7 @@
 📊 Big Data & DataBases
 - Big Data Programming(Hadoop)
 - NoSQL DataBases(MongoDB)
-- RDB & RDBBMS(MairaDB, Oracle)
+- RDB & RDBMS(MairaDB, Oracle)
 
 ⚙️ Backend & Programming
 - ☕ Java & Spring(Spring Boot, Spring Data JPA)
