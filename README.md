@@ -22,6 +22,7 @@
 
  👓 Frontend
  - 💻 HTML5 & CSS & Javascript
+ - 🌱 Vue.js 
  - 🅱️ Responsive Web Design(Bootstrap)
 ---
 
