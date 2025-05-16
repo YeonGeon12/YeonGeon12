@@ -1,32 +1,32 @@
-## 👨‍🎓GEON-YOON | Student
+## 👨‍🎓윤건(GEON-YOON) | Student
 
 ## 🚀 ABOUT ME
-🏫  I am a second-year student majoring in Big Data at Korea Polytechnic University, Seoul Gangseo Campus.
+🏫  저는 한국폴리텍 대학교 서울 강서캠퍼스에서 빅데이터과를 전공하는 2학년 학생입니다.
 
-🖊   studying cloud-native applications, big data, and AI(artificial intelligence).
+🖊   클라우드 네이티브 애플리케이션과 빅데이터, 인공지능(AI)에 대해 공부하고 있습니다.
 
-🔎  Interested in Java, Python, and AI.
+🔎  자바(JAVA), 파이썬(Python), AI에 대해 관심이 있습니다.
 
 ---
 
-## 🛠️Tech Stack & Expertise
-📊 Big Data & DataBases
+## 🛠️내가 사용할 수 있는 기술(Tech Stack)
+📊 빅데이터(Big Data) & 데이터베이스(DB)
 - Big Data Programming(Hadoop)
 - NoSQL DataBases(MongoDB)
 - RDB & RDBMS(MairaDB, Oracle)
 
-⚙️ Backend & Programming
+⚙️ 백앤드(back-end) & 프로그레밍(Programming)
 - ☕ Java & Spring(Spring Boot, Spring Data JPA)
 - 🐍 Python for AI & Data Science (Tesserat, TensorFlow)
 - 📡 RESTful API (OpenAPI)
 
- 👓 Frontend
+ 👓 프론트앤드(frontend)
  - 💻 HTML5 & CSS & Javascript
  - 🌱 Vue.js(Still learning)
  - 🅱️ Responsive Web Design(Bootstrap)
 ---
 
-## 🎯 My Goal for 2025
+## 🎯 2025년에 이루고 싶은 목표
 - ✅ Develope Spring Boot project using JPA & ThymeLeaf
 - ✅ Obtaining SQLD Developer Certification
 - ✅ Obtaining Information Processing Industry Engineer Certification
