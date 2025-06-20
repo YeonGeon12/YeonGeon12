@@ -15,7 +15,7 @@
 - NoSQL DataBases(MongoDB)
 - RDB & RDBMS(MairaDB, Oracle)
 
-⚙️ 백앤드(back-end) & 프로그레밍(Programming)
+⚙️ 백앤드(back-end) & 프로그래밍(Programming)
 - ☕ Java & Spring(Spring Boot, Spring Data JPA)
 - 🐍 Python for AI & Data Science (Tesserat, TensorFlow)
 - 📡 RESTful API (OpenAPI)
