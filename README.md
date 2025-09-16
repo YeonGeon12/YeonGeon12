@@ -16,7 +16,7 @@
 - RDB & RDBMS(MairaDB, Oracle)
 
 ⚙️ 백앤드(back-end) & 프로그래밍(Programming)
-- ☕ Java & Spring(Spring Boot, Spring Data JPA)
+- ☕ Java & Spring(Spring Boot, Spring Data JPA, Spring Security)
 - 🐍 Python for AI & Data Science (Tesserat, TensorFlow)
 - 📡 RESTful API (OpenAPI)
 
